@@ -1,0 +1,6 @@
+{
+  "name": "OSN Fisika Mastery: Kinematika Soal 3",
+  "description": "Aplikasi latihan Olimpiade Sains Nasional (OSN-K) Fisika SMA berbasis analisis mendalam Soal Nomor 3 Kinematika dengan 15 soal isian singkat numerik, simulasi pembuktian fisika, FBD, pembahasan buku teks, dan tutor suara Mister Jo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
